@@ -19,23 +19,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-xs-6 col-mb-12">
                     <div class="widget">
-                        <h3 class="block-title">Quick Link</h3>
-                        <ul class="menu">
-                            <li><a href="#">- About Us</a></li>
-                            <li><a href="#">- Blog</a></li>
-                            <li><a href="#">- Events</a></li>
-                            <li><a href="#">- Shop</a></li>
-                            <li><a href="#">- FAQ's</a></li>
-                            <li><a href="#">- About Us</a></li>
-                            <li><a href="#">- Blog</a></li>
-                            <li><a href="#">- Events</a></li>
-                            <li><a href="#">- Shop</a></li>
-                            <li><a href="#">- FAQ's</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-xs-6 col-mb-12">
-                    <div class="widget">
                         <h3 class="block-title">Contact Info</h3>
                         <ul class="contact-footer">
                             <li>

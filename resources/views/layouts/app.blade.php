@@ -1,4 +1,3 @@
-<!-- resources/views/layouts/app.blade.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/responsive.css') }}">
+    {{-- <link href="{{ mix('css/app.css') }}" rel="stylesheet"> --}}
     @stack('styles')
 </head>
 <body>
