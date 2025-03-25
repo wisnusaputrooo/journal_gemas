@@ -6,7 +6,7 @@
 
 @section('content')
 <h1>Ayo Masuk, Teman!</h1>
-<form method="POST" action="{{ route('handleLogin') }}">
+<form method="POST" action="{{ route('login') }}">
     @csrf
     <div class="form-group">
         <label for="email">Email address</label>

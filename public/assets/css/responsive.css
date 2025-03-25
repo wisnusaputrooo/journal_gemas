@@ -423,9 +423,13 @@
         display: none
     }
 
-    .header-top-right {
-        display: none
+    .text-lg-right {
+        text-align: right !important
     }
+
+    /* .header-top-right {
+        display: none
+    } */
 
     .top-bar .list-inline li {
         margin-right: 5px;

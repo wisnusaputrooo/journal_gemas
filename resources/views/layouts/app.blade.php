@@ -7,7 +7,6 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/fonts/line-icons.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/slicknav.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/color-switcher.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}">
@@ -54,7 +53,6 @@
     <script src="{{ asset('assets/js/jquery-min.js') }}"></script>
     <script src="{{ asset('assets/js/popper.min.js') }}"></script>
     <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('assets/js/color-switcher.js') }}"></script>
     <script src="{{ asset('assets/js/jquery.counterup.min.js') }}"></script>
     <script src="{{ asset('assets/js/waypoints.min.js') }}"></script>
     <script src="{{ asset('assets/js/wow.js') }}"></script>
