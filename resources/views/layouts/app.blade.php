@@ -25,8 +25,10 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="product-title">@yield('page-title')</h2>
                         <ol class="breadcrumb">
-                            <li><a href="#">Home /</a></li>
-                            <li class="current">@yield('breadcrumb')</li>
+                            <li><a href="{{ route('home') }}">Home</a></li>
+                            @hasSection('breadcrumb')
+                                <li class="current"> / @yield('breadcrumb')</li>
+                            @endif
                         </ol>
                     </div>
                 </div>

@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Halaman Utama')
+@section('page-title', 'Halaman Utama')
+{{-- @section('breadcrumb', '#') --}}
 
 @section('content')
 

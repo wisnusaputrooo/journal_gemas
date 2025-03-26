@@ -6,7 +6,7 @@ use App\Http\Controllers\AuthController;
 // Rute untuk halaman utama
 Route::get('/', function () {
     return view('pages.home');
-});
+})->name('home');
 
 // Rute untuk halaman tentang
 Route::get('/about', function () {
