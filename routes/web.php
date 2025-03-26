@@ -13,6 +13,12 @@ Route::get('/about', function () {
     return view('pages.about');
 });
 
+// Rute untuk halaman sambutan atau testimoni
+Route::get('/greetings', function () {
+    return view('pages.greetings');
+});
+
+
 // Rute untuk autentikasi
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
